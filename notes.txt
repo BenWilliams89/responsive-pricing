@@ -1,0 +1,5 @@
+Best practice:
+
+- Give everything a class
+- Go through each class one at a time in the css
+- Once finsihed then make responsive
