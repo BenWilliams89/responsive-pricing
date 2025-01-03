@@ -2,4 +2,5 @@ Best practice:
 
 - Give everything a class
 - Go through each class one at a time in the css
+- Design in mobile view first and make media quieries can to larger views not the other way around
 - Once finsihed then make responsive
